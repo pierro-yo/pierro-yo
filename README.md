@@ -26,8 +26,8 @@ Junior developer with 7 years of engineering problem solving background. Makers 
 
 ### [Bakers Vs Ducks](https://github.com/pierro-yo/bakers-vs-ducks)
 
+**Bakers VS Ducks** is a web based tower defence game based off the popular game "Plants Vs Zombies** built with Javascript, CSS, HTML and Jest.
 
-**Bakers VS Ducks** is a **web based tower defence game based off the popular game "Plants Vs Zombies** built with **Javascript, CSS, HTML and Jest**.
 
 ### [Project 2 Title](project_2_link)
 
