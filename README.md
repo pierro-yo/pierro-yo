@@ -32,12 +32,13 @@ Junior developer with 7 years of engineering problem solving background. Makers 
 
 (https://github.com/pierro-yo/bakers-vs-ducks)
 
-### [Acebook Ios]([project_2_link](https://github.com/siwhelan/swiftui-engineering-project))
+### [Acebook Ios](https://github.com/siwhelan/swiftui-engineering-project)
 
 ![acebook figma](https://github.com/pierro-yo/pierro-yo/assets/96428868/f2c67dc0-fbf6-4fb5-b408-917522a482cd)
 
 Acebook is an app built on IOS which allows you to sign up, log in, create posts, see other peoples posts, like a certain post and view your own profile. Built in Swift on Xcode
 
+(https://github.com/siwhelan/swiftui-engineering-project)
 
 
 ## Get in Touch 📬
